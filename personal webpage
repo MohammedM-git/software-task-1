@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Personal Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e9f5ff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #004080;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Personal Page</h1>
+    <p>Hi, I'm MOHAMMED ALMUWALLAD, a passionate engineering student.</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>I'm an engineering student with a strong interest in advanced mathematics, physics, and cutting-edge technology. I’m especially drawn to fields like computer systems, robotics, communications, and semiconductors anything that involves understanding or building complex, high-performance systems.</p>
+      <p>I’ve interned at Smart Methods, where I gained hands-on experience in robotics and automation. I’m focused on developing both technical depth and practical skills, with the long-term goal of working in research and development to solve challenging real-world problems and push the boundaries of innovation.</p>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <ul>
+        <li>Robotics Internship at Smart Methods</li>
+        <li>Arduino LED Control Project</li>
+        <li>Exploring Supercomputing Architectures</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contact Me</h2>
+      <p>Email:muwalladmohammed@gmail.com</p>
+    </section>
+  </main>
+</body>
+</html>
